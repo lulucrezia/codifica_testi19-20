@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    studente: Lucrezia Fattori
+    matricola: 567659
+    corso: Codifica di testi 19-20
+-->
+<text>
+    il primo xml con validazione
+</text>
+<text />
+
+<!-- esercizio 2.xml:10: parser error : Extra content at the end of the document
+    <text /> 
+-->
